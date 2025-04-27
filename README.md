@@ -34,7 +34,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/vegetable-fruit-classifier.git
+git clone (https://github.com/Reckt-poision/Image-Classification-model/blob/main/README.md)
 cd vegetable-fruit-classifier
 Create and activate a virtual environment (optional but recommended)
 
