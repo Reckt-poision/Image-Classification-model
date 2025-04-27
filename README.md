@@ -74,7 +74,7 @@ Improve UI/UX
 
 Add more classes (different fruits and vegetables)
 
-Deploy on cloud (Streamlit Cloud / AWS / GCP)
+Deploy on cloud (Streamlit Cloud)
 
 🤝 Contributing
 Pull requests are welcome!
