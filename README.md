@@ -32,6 +32,7 @@ Edit
 Clone the repository
 
 bash
+linkedin:https://www.linkedin.com/posts/arman-baig-4860b0306_machinelearning-deeplearning-tensorflow-activity-7322291449528508416-5gA3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE333aYBh2VDpgsueub-QC_eBx4oSky2pzQ
 Copy
 Edit
 git clone (https://github.com/Reckt-poision/Image-Classification-model/blob/main/README.md)
